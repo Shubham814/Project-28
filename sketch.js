@@ -31,7 +31,7 @@ function setup() {
    bin2 = new bin(1010,height-210,20,200);
    bin3 = new bin(1190,height-210,20,200);
 
-   sling1 = new launcher(paper1.body,{x:300 , y:200});
+   sling1 = new launcher(paper1.body,{x:300 , y:400});
    
 
    
