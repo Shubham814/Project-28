@@ -4,7 +4,7 @@ class launcher{
             bodyA: bodyA,
             pointB: pointB,
             stiffness: 0.004,
-            length: 100
+            length: 20
         }
         this.launcher = Constraint.create(options);
         this.pointB = pointB;
